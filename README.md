@@ -10,3 +10,9 @@ In der ersten Lernperiode habe ich mich auf viele einfache, kleine Programmierpr
 
 ### Projekte
 Zuallererst möchte ich mein "Tic Tac Toe" Game fertigstellen. Da ich den Umgang mit Windowsforms nun ein bisschen kennengelernt habe, traue ich mich auch grössere Projekte zu erstellen und bearbeiten. Ich traue mir auch zu, dass ich das berühmte Snake Game selbst erstellen kann. Zwar werde ich oft Hilfe vom Internet brauchen, da ich vor 3 Monaten nicht mal eine Programmiersprache aufzählen konnte. Falls ich noch übrige Zeit habe, werde ich ein Wechselkurs-Programm erstellen, welches mithilfe eine API den jetzigen Stand abliesst und dadurch den Wert der eingegeben Menge herausspuckt.
+
+## Lernblock 1 (24.10.2023)
+- [ ] Fehler im Game "Tic Tac Toe" aufzuschreiben
+- [ ] Mögliche Lösungen zu dokumentieren
+- [ ] Meine persöhnlich gewählte Lösung zu erklären
+- [ ] Was diese neue Lösung im Game bewirkt.
