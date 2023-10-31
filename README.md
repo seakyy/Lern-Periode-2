@@ -30,7 +30,16 @@ Heute hat das Debuggen sehr gut geklappt. Ich konnte effizient die Fehler finden
 
 
 # Lernblock 2 (31.10.2023)
-- [ ] Übrige Fehler im Tic Tac Toe Game zu debuggen.
+- [ x ] Übrige Fehler im Tic Tac Toe Game zu debuggen.
 - [ ] Überprüfen dass Live-Share ohne Probleme funktioniert
-- [ ] Mit Robin Taing zusammen unser Snake Game anfangen
-- [ ] Wenn möglich im Retro-Style gestalten
+- [ x ] Mit Robin Taing zusammen unser Snake Game anfangen
+- [ x ] Wenn möglich im Retro-Style gestalten
+
+## Reflexion
+Alle Fehler wurden im Tic Tac Toe debugged. Robin Taing und ich haben probiert, zusammen mit Live-Share zu arbeiten. Leider wird es offiziell nicht supportet (seit 2019!). Deshalb arbeiten wir separat, aber immer noch zusammen. Das ist ein sehr grosser Vorteil, da wir unser Snake Game selbst konfigurieren können (BackgroundColor etc.). Der Retro-Style gefällt mir sehr, also probiere ich es beizubehalten im Verlauf der Entwicklung vom Game. Heute habe ich nur das Snake Game programmiert. Es ist zwar noch nicht fertig aber mit einem zweiten halben Tag, wird unser Projekt vielleicht schon fertiggestellt.
+
+
+# Lernblock 3 (7.11.2023)
+- [ ] Snake-Game fertigstellen
+- [ ] UI überarbeiten
+- [ ] Vielleicht Custom Bilder für Snake, Food etc. einfügen 
