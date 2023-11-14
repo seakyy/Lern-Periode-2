@@ -39,6 +39,7 @@ Heute hat das Debuggen sehr gut geklappt. Ich konnte effizient die Fehler finden
 Alle Fehler wurden im Tic Tac Toe debugged. Robin Taing und ich haben probiert, zusammen mit Live-Share zu arbeiten. Leider wird es offiziell nicht supportet (seit 2019!). Deshalb arbeiten wir separat, aber immer noch zusammen. Das ist ein sehr grosser Vorteil, da wir unser Snake Game selbst konfigurieren können (BackgroundColor etc.). Der Retro-Style gefällt mir sehr, also probiere ich es beizubehalten im Verlauf der Entwicklung vom Game. Heute habe ich nur das Snake Game programmiert. Es ist zwar noch nicht fertig aber mit einem zweiten halben Tag, wird unser Projekt vielleicht schon fertiggestellt.
 
 
+
 # Lernblock 3 (7.11.2023)
 - [ ] Snake-Game fertigstellen
 - [ ] UI überarbeiten
@@ -49,7 +50,17 @@ Alle Fehler wurden im Tic Tac Toe debugged. Robin Taing und ich haben probiert, 
 Heute habe ich weiter am Snake game gearbeitet. Ich bin sehr weit gekommen, leider haben aber Fehler im Code mich davon abgehalten das Game zu starten. Ich habe auch keine Ahnung wie ich die Fehler beheben sollte. Ich habe mich mit YouTube Videos erkundigt und auch auf der offiziellen Microsoft Seite nachgeschaut aber kam schlussendlich auf keine hilfreiche Lösung. Deshalb programmierte ich trotz Fehler weiter.
 
 
+
 # lernblock 4 (14.11.2023)
 - [ ] Meine Fehler aufschreiben und mit Herr Colic besprechen.
+- [ ] Eine Lösung für diese Fehler auffschreiben und im Code übernehmen.
+- [ ] Notieren, wie es passiert ist und wie ich es in Zukunft vermeiden kann.
+
+## Reflexion
+
+Heute habe ich mein vorgestellter Lernblock garnicht erfüllt. Aber dafür haben Mika, Robin und ich an unserem Programmierprojekt weitergearbeitet. Wir arbeiten gerade an einer Ver- / Entschlüsslungs-Appplikation. Wir wollen Texte mit einem Schlüssel verschlüsseln. Mit dem richtigen Schlüssel kann man auch geheime Texte entschlüsseln. Wir haben besprochen, wie wir unsere Texte verschlüsseln werden. Die Software sollte einfach zum bedienen sein und später auch ein UI bekommen. Momentan konzentrieren wir uns nur auf das Backend der Software. Den heutigen geplanten Lernblock schiebe ich auf das nächste Mal.
+
+# lernblock 5 (21.11.2023)
+- [ ] Meine Fehler aufschreiben (und mit Herr Colic besprechen, falls Einzelgespräch stattfindet)
 - [ ] Eine Lösung für diese Fehler auffschreiben und im Code übernehmen.
 - [ ] Notieren, wie es passiert ist und wie ich es in Zukunft vermeiden kann.
