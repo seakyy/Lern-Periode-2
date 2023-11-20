@@ -61,7 +61,7 @@ Heute habe ich weiter am Snake game gearbeitet. Ich bin sehr weit gekommen, leid
 Heute habe ich mein vorgestellter Lernblock garnicht erfüllt. Aber dafür haben Mika, Robin und ich an unserem Programmierprojekt weitergearbeitet. Wir arbeiten gerade an einer Ver- / Entschlüsslungs-Appplikation. Wir wollen Texte mit einem Schlüssel verschlüsseln. Mit dem richtigen Schlüssel kann man auch geheime Texte entschlüsseln. Wir haben besprochen, wie wir unsere Texte verschlüsseln werden. Die Software sollte einfach zum bedienen sein und später auch ein UI bekommen. Momentan konzentrieren wir uns nur auf das Backend der Software. Den heutigen geplanten Lernblock schiebe ich auf das nächste Mal.
 
 # lernblock 5 (21.11.2023)
-- [ ] Meine Fehler aufschreiben (und mit Herr Colic besprechen, falls Einzelgespräch stattfindet)
+- [ ] Meine Fehler aufschreiben (und mit Herr Colic besprechen)
 - [ ] Eine Lösung für diese Fehler auffschreiben und im Code übernehmen.
 - [ ] Notieren, wie es passiert ist und wie ich es in Zukunft vermeiden kann.
 
