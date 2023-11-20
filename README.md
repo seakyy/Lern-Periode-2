@@ -64,3 +64,12 @@ Heute habe ich mein vorgestellter Lernblock garnicht erfüllt. Aber dafür haben
 - [ ] Meine Fehler aufschreiben (und mit Herr Colic besprechen, falls Einzelgespräch stattfindet)
 - [ ] Eine Lösung für diese Fehler auffschreiben und im Code übernehmen.
 - [ ] Notieren, wie es passiert ist und wie ich es in Zukunft vermeiden kann.
+
+## Reflexion
+
+Heute habe ich an meinem Snake-Game weitergearbeitet. Ich bin schon etwas über der Hälfte fertig. Weil ich immernoch Fehler in meinem Code habe, startet mein Programm noch nicht. Da wir heute keine Einzelgespräche hatten, konnte ich Ihnen die Fehler in meinem Code nicht zeigen. Die Arbeitspakete bleiben die gleichen bis ich die Fehler abklären kann. Der Code auf Github ist von einem Programmierprojekt der an den Kanti-Lehrpersonen gerichtet ist. Wir stellen eine Software für die Kunden (Lehrpersonen) zur Verfügung.
+
+# lernblock 6 (28.11.2023)
+- [ ] Meine Fehler aufschreiben (und mit Herr Colic besprechen, falls Einzelgespräch stattfindet)
+- [ ] Eine Lösung für diese Fehler auffschreiben und im Code übernehmen.
+- [ ] Notieren, wie es passiert ist und wie ich es in Zukunft vermeiden kann.
