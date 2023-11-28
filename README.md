@@ -70,6 +70,16 @@ Heute habe ich mein vorgestellter Lernblock garnicht erfüllt. Aber dafür haben
 Heute habe ich an meinem Snake-Game weitergearbeitet. Ich bin schon etwas über der Hälfte fertig. Weil ich immernoch Fehler in meinem Code habe, startet mein Programm noch nicht. Da wir heute keine Einzelgespräche hatten, konnte ich Ihnen die Fehler in meinem Code nicht zeigen. Die Arbeitspakete bleiben die gleichen bis ich die Fehler abklären kann. Der Code auf Github ist von einem Programmierprojekt der an den Kanti-Lehrpersonen gerichtet ist. Wir stellen eine Software für die Kunden (Lehrpersonen) zur Verfügung.
 
 # lernblock 6 (28.11.2023)
-- [ ] Meine Fehler aufschreiben (und mit Herr Colic besprechen, falls Einzelgespräch stattfindet)
-- [ ] Eine Lösung für diese Fehler auffschreiben und im Code übernehmen.
-- [ ] Notieren, wie es passiert ist und wie ich es in Zukunft vermeiden kann.
+- [ x ] Meine Fehler aufschreiben (und mit Herr Colic besprechen, falls Einzelgespräch stattfindet)
+- [ x ] Eine Lösung für diese Fehler auffschreiben und im Code übernehmen.
+- [ x ] Notieren, wie es passiert ist und wie ich es in Zukunft vermeiden kann.
+
+
+## Reflexion
+
+Das Snake-Game habe ich fast ganz fertig gekriegt. Ich bräuchte noch einen Vormittag und dann wäre mein Snake-Game fertig. Ich habe Kommentare im Code hineingeschreiben um es verständlciher zu machen und habe auch meine Fehler aufgeschrieben als Kommentar. Ich habe für viele Fehler eine hilfreiche Lösung Online gefunden, jedoch konnte ich ein ganz bestimmten Fehler nicht beheben. Ich weiss selbst nicht, wieso es überhaupt als Fehler angezeigt wird. Ich habe mir alle Lösungen zu den Problemen als Kommentar hineingeschrieben, sodass ich später nachvollziehen kann, wieso ich es auf diese Art und Weise gemacht habe. Heute habe ich sehr gut gearbeitet, der eine Fehler hindert mich jedoch mein Programm zu starten.
+
+# Lernblock 7 (5.12.2023)
+- [ ] Den Advents-Code-Kalender austesten und mich zurecht finden
+- [ ] Mein Fehler kurz beheben und das Snake-Game fertigstellen
+- [ ] Das alte Tic-Tac-Toe Game einzigartig zu machen und neue Funktionen hinzufügen
