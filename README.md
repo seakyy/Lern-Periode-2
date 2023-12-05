@@ -83,3 +83,13 @@ Das Snake-Game habe ich fast ganz fertig gekriegt. Ich bräuchte noch einen Vorm
 - [ ] Den Advents-Code-Kalender austesten und mich zurecht finden
 - [ ] Mein Fehler kurz beheben und das Snake-Game fertigstellen
 - [ ] Das alte Tic-Tac-Toe Game einzigartig zu machen und neue Funktionen hinzufügen
+
+
+## Reflexion 
+
+Heute haben wir den AoC angeschaut. Mit dem ersten Tag kam ich gut zurecht. Der Zweite Tag hingegen, war für mich unmöglich. Ich habe viele verschiedene Wege ausprobiert, kam aber immer auf eine zu tiefe Nummer. Ich hatte 1311 probiert und 5050. Die Lösung liegt irgendwo dazwischen. Nach mehreren gescheiterten Versuche habe ich es dann aufgegeben. Später habe ich zusammen mit Mika und Robin an unserem Programmierprojekt weitergearbeitet. Heute hatte ich weder Zeit für das Snake-Game, noch für mein Tic Tac Toe - Game. 
+
+# Lernblock 8 (12.12.2023)
+- [ ] Mit Mika und Robin an unserem Programmierprojekt weiterarbeiten
+- [ ] An AoC probieren möglichts viele Rätsel zu lösen.
+- [ ] Konzepte vom Programmieren vertiefen (Neue Sachen lernen, wieso wird das so und so gemacht?)
