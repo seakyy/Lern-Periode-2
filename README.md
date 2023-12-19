@@ -100,5 +100,23 @@ Ich habe unser Programmierprojekt unterschätzt. Es war sehr viel Arbeit und wir
 
 
 # Lernblock 9 (19.12.2023)
-- [ ] Ein AoC Rätsel zu lösen
+- [ x ] Ein AoC Rätsel zu lösen
 - [ ] Ein zweites AoC zu lösen
+
+## Reflexion
+Heute habe ich Tag 2 vom AoC gelöst. Es war sehr schwierig, vorallem weil man zuerst verstehen musste, was die Website von einem verlangt. Ich habe oft das Internet als Hilfestellung gebraucht, da ich nur wenige Funktionen kenne. Heute habe ich die neue Funktion "var" kennengelernt. Ich habe sie bisher noch nie verwendet. Einen anderen ganzen Tag konnte ich leider nicht lösen. Ich habe an Tag 3 & 4 amgefangen, die Antwort die ich aber bekommen habe war immer: The answer is too low." 
+
+
+
+
+
+# REFLEXION LP-2
+
+Als Ziel habe ich mir vorgenommen ein grosses Projekt anzufangen, "Vielleicht in einer Gruppe"- war meine Idee. Anfangs habe ich mich aber noch auf mein Tic Tac Toe Game konzentriert. Ich hatte zuerst nur das 3x3 Spielfeld, und dass nur in einer Farbe. In den nächsten Lektionen habe ich es dann erweitert auf ein 4x4 Spielfeld, mit dieser Erweiterung sind dann aber auch viele Probleme aufgetreten. Es gab viele mini-Probleme, die ich gut selbst lösen konnte. Aber es gab auch ein grösseres Problem, nämlich zählte das Programm die Anzahl der Clicks, und wenn diese die Grenze überschritten haben sollte, eigentlich "Draw" also Unentschieden kommen. Leider hatte das Programm immer noch die 3x3 Einstellungen und hörte somit nach 9 Clicks auf.
+Danach habe ich mich entschieden mit Robin Taing zusammen über Live-Share an einem Snake Game zu arbeiten. Leider habe ich dann herausgefunden, dass Live-Share nicht mit Windows Forms funktioniert. Deshalb hat jeder es auf seinem Laptop gemacht. Zuerst funktionierte alle sehr gut, später, als ich fast fertig war, kam ein sehr grosses Problem, welches ich selber nicht lösen konnte, nicht mal mit der Hilfe vom Internet. Als ich auf keine effektive Lösung kam, habe ich das Projekt in Ruhe gelassen. Ich war sehr traurig da ich gute 2 Tage verschwendet habe, ein Game zu programmieren, was im Endeffekt nicht mal startet. 
+Herr Schmid hat uns dann am Freitag unsere Programmierprojekte an der Kanti Baden vorgestellt, Robin, Mika und ich fanden es eine gute Idee alle zusammen an unser Krypto-Verschlüsselung Projekt weiterzuarbeiten. Schlussendlich kam dies aber sehr gut an und wir als Gruppe haben uns sehr gefreut dieses Thema ausgewählt zu haben. 
+Advent of Code klopfte schon bald an der Tür. Anfangs war es sehr schwer die Aufträge zu machen aber schon bald hatte ich den Dreh ein bisschen raus. Heute habe ich ein Tag komplett fertig geschafft und zwei weitere angefangen.
+
+Wenn ich für die letzten neun Wochen auf mich zurückschaue, muss ich gestehen, dass ich ein bisschen enttäuscht bin, vor allem weil das grosse Snake Game nicht funktioniert hat. Ich habe meistens sehr gut gearbeitet und probierte immer das meiste aus den Lektionen zu holen. Der grösste Meilensteil ist wahrscheinlich der Advent of Code, da er mir gezeigt hat, dass man zuerst einen sehr guten Plan braucht und man aber auch verstehen muss was von einem verlangt wird und wie man es am besten umsetzen kann. Ich habe viele neue Funktionen kennen gelernt, die wir vorher nie gebraucht hatten. Zum Beispiel Datei auslesen mit "Files.ReadAllFiles(Input-Datei.txt);"
+
+
