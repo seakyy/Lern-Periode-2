@@ -80,7 +80,7 @@ Heute habe ich an meinem Snake-Game weitergearbeitet. Ich bin schon etwas über 
 Das Snake-Game habe ich fast ganz fertig gekriegt. Ich bräuchte noch einen Vormittag und dann wäre mein Snake-Game fertig. Ich habe Kommentare im Code hineingeschreiben um es verständlciher zu machen und habe auch meine Fehler aufgeschrieben als Kommentar. Ich habe für viele Fehler eine hilfreiche Lösung Online gefunden, jedoch konnte ich ein ganz bestimmten Fehler nicht beheben. Ich weiss selbst nicht, wieso es überhaupt als Fehler angezeigt wird. Ich habe mir alle Lösungen zu den Problemen als Kommentar hineingeschrieben, sodass ich später nachvollziehen kann, wieso ich es auf diese Art und Weise gemacht habe. Heute habe ich sehr gut gearbeitet, der eine Fehler hindert mich jedoch mein Programm zu starten.
 
 # Lernblock 7 (5.12.2023)
-- [ ] Den Advents-Code-Kalender austesten und mich zurecht finden
+- [ x ] Den Advents-Code-Kalender austesten und mich zurecht finden
 - [ ] Mein Fehler kurz beheben und das Snake-Game fertigstellen
 - [ ] Das alte Tic-Tac-Toe Game einzigartig zu machen und neue Funktionen hinzufügen
 
@@ -90,6 +90,15 @@ Das Snake-Game habe ich fast ganz fertig gekriegt. Ich bräuchte noch einen Vorm
 Heute haben wir den AoC angeschaut. Mit dem ersten Tag kam ich gut zurecht. Der Zweite Tag hingegen, war für mich unmöglich. Ich habe viele verschiedene Wege ausprobiert, kam aber immer auf eine zu tiefe Nummer. Ich hatte 1311 probiert und 5050. Die Lösung liegt irgendwo dazwischen. Nach mehreren gescheiterten Versuche habe ich es dann aufgegeben. Später habe ich zusammen mit Mika und Robin an unserem Programmierprojekt weitergearbeitet. Heute hatte ich weder Zeit für das Snake-Game, noch für mein Tic Tac Toe - Game. 
 
 # Lernblock 8 (12.12.2023)
-- [ ] Mit Mika und Robin an unserem Programmierprojekt weiterarbeiten
-- [ ] An AoC probieren möglichts viele Rätsel zu lösen.
+- [ x ] Mit Mika und Robin an unserem Programmierprojekt weiterarbeiten
+- [ x ] An AoC probieren möglichts viele Rätsel zu lösen.
 - [ ] Konzepte vom Programmieren vertiefen (Neue Sachen lernen, wieso wird das so und so gemacht?)
+
+## Reflexion
+
+Ich habe unser Programmierprojekt unterschätzt. Es war sehr viel Arbeit und wir brauchten den ganzen Morgen,  nicht nur zum Programmieren sonder auch für unsere Dokumentation und Präsentation. Wir haben uns noch vorgenommen dass wir die Konsolen-Anwendung in Win-Forms umprogrammieren, haben aber dann gemerkt dass es sehr Zeitaufwändig ist und wir diese Zeit nicht mehr zu Verfügung haben. Den AoC habe ich zwar nicht in der LP-Lektion gelöst, dafür aber am Nachmittag die Rätsel angeschaut und probiert sie zu lösen.
+
+
+# Lernblock 9 (19.12.2023)
+- [ ] Ein AoC Rätsel zu lösen
+- [ ] Ein zweites AoC zu lösen
